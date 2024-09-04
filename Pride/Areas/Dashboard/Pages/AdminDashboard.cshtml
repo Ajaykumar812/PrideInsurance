@@ -1,0 +1,178 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.AdminDashboardModel
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container pt-30">
+    <!-- Row -->
+    <div class="row">
+        <div class="col-sm-8">
+            <div class="row">
+                <div class="col-sm-6 col-xs-12">
+                    <div class="panel panel-default card-view pa-0">
+                        <div class="panel-wrapper collapse in">
+                            <div class="panel-body pa-0">
+                                <div class="sm-data-box">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                                                <span class="txt-dark block counter"><span class="counter-anim">@Model.TotalCustomers</span></span>
+                                                <span class="capitalize-font block">Total Users</span>
+                                            </div>
+                                            <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                                                <i class="icon-people data-right-rep-icon"></i>
+                                            </div>
+                                        </div>
+                                        <div class="progress-anim">
+                                            <div class="progress">
+                                                <div class="progress-bar progress-bar-orange
+															wow animated progress-animated" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-xs-12">
+                    <div class="panel panel-default card-view pa-0">
+                        <div class="panel-wrapper collapse in">
+                            <div class="panel-body pa-0">
+                                <div class="sm-data-box">
+                                    <div class="container-fluid">
+                                        <div class="row">
+                                            <div class="col-xs-6 text-center pl-0 pr-0 data-wrap-left">
+                                                <span class="txt-dark block counter"><span class="counter-anim">@Model.Leads</span></span>
+                                                <span class="capitalize-font block">Total Leads</span>
+                                            </div>
+                                            <div class="col-xs-6 text-center  pl-0 pr-0 data-wrap-right">
+                                                <i class="icon-eye  data-right-rep-icon"></i>
+                                            </div>
+                                        </div>
+                                        <div class="progress-anim">
+                                            <div class="progress">
+                                                <div class="progress-bar progress-bar-orange
+															wow animated progress-animated" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="col-sm-12 col-xs-12">
+                    <div class="panel panel-default border-panel card-view panel-refresh">
+                        <div class="refresh-container">
+                            <div class="la-anim-1"></div>
+                        </div>
+                        <div class="panel-heading">
+                            <div class="pull-left">
+                                <h6 class="panel-title txt-dark">Recent Leads</h6>
+                            </div>
+                            
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="panel-wrapper collapse in">
+                            <div class="panel-body row pa-0">
+                                <div class="table-wrap">
+                                    <div class="table-responsive">
+                                        <table class="table table-hover mb-0">
+                                            <thead>
+                                                <tr>
+                                                    <th>Date</th>
+                                                    <th>Name</th>
+                                                    <th>Company</th>
+                                                    <th>ContactNo</th>
+                                                    <th>TypeofPolicy</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @foreach (var item in Model.LeadsList)
+                                                {
+                                                    <tr>
+                                                        <td><span class="txt-dark weight-500">@item.date.ToShortDateString()</span></td>
+                                                        <td>@item.Name</td>
+                                                        <td>@item.Company</td>
+                                                        <td>
+                                                            @item.ContactNo
+                                                        </td>
+                                                        <td>
+                                                      @item.TypeofPolicy
+                                                        </td>
+                                                    </tr>
+                                                }
+                                                
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="row">
+
+
+                <div class="col-sm-12 col-xs-12">
+                    <div class="panel panel-default border-panel card-view">
+                        <div class="panel-heading">
+                            <div class="pull-left">
+                                <h6 class="panel-title txt-dark">Users</h6>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="panel-wrapper collapse in">
+                            <div class="panel-body">
+                                <div class="streamline user-activity">
+                                    <div class="table-wrap">
+                                        <div class="table-responsive">
+                                            <table class="table table-hover mb-0">
+                                                <thead>
+                                                    <tr>
+                                                      
+                                                        <th>Name</th>
+                                                        <th>Email</th>
+                                                        <th>Role</th>
+                                                      
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @foreach (var item in Model.TblUser)
+                                                    {
+                                                        <tr>
+                                                            <td><span class="txt-dark weight-500">@item.UserName</span></td>
+                                                            <td>@item.Email</td>
+                                                     
+                                                        
+                                                            <td>
+                                                                <span class="label label-warning">@item.Role</span>
+                                                            </td>
+                                                        </tr>
+                                                    }
+                                              
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- /Row -->
+
+</div>
+

@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\pride.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\pride.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\acord\\acord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\acord\\acord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\addclient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\addclient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\leadlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\leadlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\leadlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\leadlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\leads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\leads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\brokers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\brokers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\tbluserlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\tbluserlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\storedprocedure\\spassignedroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\storedprocedure\\spassignedroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\storedprocedure\\spusermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\storedprocedure\\spusermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\storedprocedure\\spassignedrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\storedprocedure\\spassignedrolelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\childviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\childviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\financecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\financecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\statelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\statelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\model\\tblassignroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\model\\tblassignroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\tbluserlist\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\tbluserlist\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\components\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\components\\menu\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\viewcomponent\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\viewcomponent\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|c:\\users\\ak745\\onedrive\\desktop\\07-082024\\07-082024\\07-082024\\pride_code\\pride\\areas\\dashboard\\pages\\components\\menu\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7962E5BA-01D9-4BA9-9B47-334CB824CADC}|Pride\\Pride.csproj|solutionrelative:pride\\areas\\dashboard\\pages\\components\\menu\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Pride\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Pride\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T07:14:10.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acord.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Acord\\Acord.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Acord\\Acord.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Acord\\Acord.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Acord\\Acord.cshtml",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAOwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:13:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pride.csproj",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pride.csproj",
+              "RelativeDocumentMoniker": "Pride\\Pride.csproj",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pride.csproj",
+              "RelativeToolTip": "Pride\\Pride.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T14:36:28.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\LeadList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\LeadList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\LeadList\\Index.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\LeadList\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T12:38:07.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml.cs",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:35:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\Index.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:23:16.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml.cs",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:00:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddClient.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml.cs",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml.cs",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:53:02.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:38:51.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Client\\AddClient.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHsAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:38:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\LeadList\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\LeadList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\LeadList\\Create.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\LeadList\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:37:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SPAssignedRoleToUser.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SPAssignedRoleToUser.cs",
+              "RelativeDocumentMoniker": "Pride\\Storedprocedure\\SPAssignedRoleToUser.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SPAssignedRoleToUser.cs",
+              "RelativeToolTip": "Pride\\Storedprocedure\\SPAssignedRoleToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:26:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\TblUser.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\TblUser.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\TblUser.cs",
+              "RelativeToolTip": "Pride\\Model\\TblUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:41.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FinanceCompany.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\FinanceCompany.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\FinanceCompany.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\FinanceCompany.cs",
+              "RelativeToolTip": "Pride\\Model\\FinanceCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:09:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Clients.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\Clients.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Clients.cs",
+              "RelativeToolTip": "Pride\\Model\\Clients.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:06:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T07:59:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pride\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T07:28:48.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StateList.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\StateList.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\StateList.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\StateList.cs",
+              "RelativeToolTip": "Pride\\Model\\StateList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:21.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuList.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\MenuList.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\MenuList.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\MenuList.cs",
+              "RelativeToolTip": "Pride\\Model\\MenuList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:15.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Leads.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Leads.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\Leads.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Leads.cs",
+              "RelativeToolTip": "Pride\\Model\\Leads.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:10.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Insurance.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Insurance.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\Insurance.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Insurance.cs",
+              "RelativeToolTip": "Pride\\Model\\Insurance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TblAssignRoleToUser.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\TblAssignRoleToUser.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\TblAssignRoleToUser.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\TblAssignRoleToUser.cs",
+              "RelativeToolTip": "Pride\\Model\\TblAssignRoleToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:41:26.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\DatabaseContext.cs",
+              "RelativeToolTip": "Pride\\Model\\DatabaseContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:39:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Brokers.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Brokers.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\Brokers.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\Brokers.cs",
+              "RelativeToolTip": "Pride\\Model\\Brokers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:38:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml.cs",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\TblUserList\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:26:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Program.cs",
+              "RelativeDocumentMoniker": "Pride\\Program.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Program.cs",
+              "RelativeToolTip": "Pride\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:58:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Menu.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml.cs",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml.cs",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:15:37.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Pages\\Components\\Menu\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:15:36.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Areas\\Dashboard\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Areas\\Dashboard\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pride\\Areas\\Dashboard\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T08:24:05.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChildViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\ChildViewModel.cs",
+              "RelativeDocumentMoniker": "Pride\\Model\\ChildViewModel.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Model\\ChildViewModel.cs",
+              "RelativeToolTip": "Pride\\Model\\ChildViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:42:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpUserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SpUserMenu.cs",
+              "RelativeDocumentMoniker": "Pride\\Storedprocedure\\SpUserMenu.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SpUserMenu.cs",
+              "RelativeToolTip": "Pride\\Storedprocedure\\SpUserMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:23:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\ViewComponent\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "Pride\\ViewComponent\\CategoryViewComponent.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\ViewComponent\\CategoryViewComponent.cs",
+              "RelativeToolTip": "Pride\\ViewComponent\\CategoryViewComponent.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:18:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pride\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pride\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:04:02.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpAssignedRoleList.cs",
+              "DocumentMoniker": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SpAssignedRoleList.cs",
+              "RelativeDocumentMoniker": "Pride\\Storedprocedure\\SpAssignedRoleList.cs",
+              "ToolTip": "C:\\Users\\ak745\\OneDrive\\Desktop\\07-082024\\07-082024\\07-082024\\Pride_code\\Pride\\Storedprocedure\\SpAssignedRoleList.cs",
+              "RelativeToolTip": "Pride\\Storedprocedure\\SpAssignedRoleList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:04:30.601Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

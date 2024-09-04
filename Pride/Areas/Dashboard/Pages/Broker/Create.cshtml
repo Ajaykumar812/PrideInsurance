@@ -1,0 +1,66 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.Broker.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default border-panel card-view">
+            <div class="panel-heading">
+                <div class="pull-left">
+                    <h6 class="panel-title txt-dark">Add New Brokers</h6>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-wrapper collapse in">
+                <div class="panel-body">
+                    <div class="form-wrap">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <form method="post">
+                                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                            <div class="form-group">
+                                                <label asp-for="Brokers.BrokerName" class="control-label"></label>
+                                                <input asp-for="Brokers.BrokerName" class="form-control" />
+                                                <span asp-validation-for="Brokers.BrokerName" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Brokers.Address" class="control-label"></label>
+                                                <input asp-for="Brokers.Address" class="form-control" />
+                                                <span asp-validation-for="Brokers.Address" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Brokers.PhoneNumber" class="control-label"></label>
+                                                <input asp-for="Brokers.PhoneNumber" class="form-control" />
+                                                <span asp-validation-for="Brokers.PhoneNumber" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Brokers.CompanyName" class="control-label"></label>
+                                                <input asp-for="Brokers.CompanyName" class="form-control" />
+                                                <span asp-validation-for="Brokers.CompanyName" class="text-danger"></span>
+                                            </div>
+                                            @*  <div class="form-group">
+                                            <input type="submit" value="Create" class="btn btn-primary" />
+                                            </div> *@
+                                            <div class="form-group">
+                                                <input type="submit" value="Create" class="btn btn-primary" />
+                                                <a href="./index" value="Cancel" class="btn btn-success">Cancel</a>
+                                            </div>
+                                        </form>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

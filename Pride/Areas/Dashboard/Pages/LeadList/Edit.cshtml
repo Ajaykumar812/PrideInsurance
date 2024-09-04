@@ -1,0 +1,126 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.LeadList.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default border-panel card-view">
+            <div class="panel-heading">
+                <div class="pull-left">
+                    <h6 class="panel-title txt-dark">Edit Lead</h6>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-wrapper collapse in">
+                <div class="panel-body">
+                    <div class="form-wrap">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <form method="post">
+                                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                            <input type="hidden" asp-for="Leads.id" />
+                                            <div class="form-group">
+                                                <label asp-for="Leads.date" class="control-label"></label>
+                                                <input asp-for="Leads.date" class="form-control" />
+                                                <span asp-validation-for="Leads.date" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.Name" class="control-label"></label>
+                                                <input asp-for="Leads.Name" class="form-control" />
+                                                <span asp-validation-for="Leads.Name" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.Company" class="control-label"></label>
+                                                <input asp-for="Leads.Company" class="form-control" />
+                                                <span asp-validation-for="Leads.Company" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.ContactNo" class="control-label"></label>
+                                                <input asp-for="Leads.ContactNo" class="form-control" />
+                                                <span asp-validation-for="Leads.ContactNo" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.EMail" class="control-label"></label>
+                                                <input asp-for="Leads.EMail" class="form-control" />
+                                                <span asp-validation-for="Leads.EMail" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.LeadStatus" class="control-label"></label>
+                                                <input asp-for="Leads.LeadStatus" class="form-control" />
+                                                <span asp-validation-for="Leads.LeadStatus" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.Description" class="control-label"></label>
+                                                <input asp-for="Leads.Description" class="form-control" />
+                                                <span asp-validation-for="Leads.Description" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.EmpyeeName" class="control-label"></label>
+                                                <input asp-for="Leads.EmpyeeName" class="form-control" />
+                                                <span asp-validation-for="Leads.EmpyeeName" class="text-danger"></span>
+                                            </div>
+
+
+                                            <div class="form-group">
+                                                <label asp-for="Leads.ContactPerson" class="control-label"></label>
+                                                <input asp-for="Leads.ContactPerson" class="form-control" />
+                                                <span asp-validation-for="Leads.ContactPerson" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.State" class="control-label"></label>
+                                                <select asp-for="Leads.State" class="form-control" asp-items="Model.StateList">
+                                                    <option>Select State</option>
+                                                </select>
+                                                <span asp-validation-for="Leads.State" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.PowerUnit" class="control-label"></label>
+                                                <input asp-for="Leads.PowerUnit" class="form-control" />
+                                                <span asp-validation-for="Leads.PowerUnit" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.EffectiveDate" class="control-label"></label>
+                                                <input asp-for="Leads.EffectiveDate" class="form-control" />
+                                                <span asp-validation-for="Leads.EffectiveDate" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Leads.TypeofPolicy" class="control-label"></label>
+                                                <select asp-for="Leads.TypeofPolicy" class="form-control" required>
+                                                    <option value="">Select Type</option>
+                                                    <option value="Renewal">Renewal</option>
+                                                    <option value="New Venture">New Venture</option>
+                                                    <option value="Mid Term/Cancellation">Mid Term/Cancellation</option>
+                                                </select>
+                                                <span asp-validation-for="Leads.TypeofPolicy" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="submit" value="Update" class="btn btn-primary" />
+                                                <a href="./index" value="Cancel" class="btn btn-success">Cancel</a>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

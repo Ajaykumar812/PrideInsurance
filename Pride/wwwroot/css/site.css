@@ -1,0 +1,260 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .header img {
+        width: 100px;
+    }
+
+    .header h1 {
+        font-size: 18px;
+        margin: 0;
+    }
+
+.date-box {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+    .date-box p {
+        margin: 0;
+        font-size: 12px;
+    }
+
+.content {
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.important {
+    font-size: 10px;
+    margin-top: 10px;
+    border-top: 1px solid black;
+    padding-top: 5px;
+}
+
+/* body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        } */
+.container {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+    .container td, .container th {
+        border: 1px solid black;
+        padding: 5px;
+    }
+
+.header {
+    font-weight: bold;
+    text-align: left;
+}
+
+.contact-info {
+    width: 50%;
+    vertical-align: top;
+}
+
+.insurers {
+    width: 50%;
+    vertical-align: top;
+}
+
+    .insurers th, .insurers td {
+        text-align: left;
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* body {
+            font-family: Arial, sans-serif;
+        } */
+.header, .footer {
+    text-align: center;
+    font-weight: bold;
+}
+
+.content {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+.remarks {
+    border: 1px solid black;
+    padding: 10px;
+}
+/* table */
+@media screen and (max-width: 768px) {
+    table, th, td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        position: relative;
+        border: none;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: transparent;
+        border-bottom: 2px solid #ddd;
+    }
+
+    tr {
+        margin-bottom: 15px;
+        display: block;
+        border-bottom: 2px solid #ddd;
+    }
+
+    td {
+        padding-left: 50%;
+        text-align: right;
+        position: relative;
+    }
+
+        td:before {
+            content: attr(data-label);
+            position: absolute;
+            left: 0;
+            width: 45%;
+            padding-left: 10px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        td input[type="checkbox"] {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        }
+}
+/* jhfjksks */
+
+
+.producer1, .producer1-box, .producer-box2, .producer-box3, .producer-box4, .producer-box5, .producer-box6 {
+    box-sizing: border-box; /* Include padding and border in element's width and height */
+    overflow: hidden;
+}
+
+.producer-box2, .producer-box5, .producer-box6 {
+    overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.container1 {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;
+    box-sizing: border-box; /* Include padding and border in width */
+}
+
+    .container1, .container1 th, .container1 td {
+        border: 1px solid black;
+    }
+
+        .container1 th, .container1 td {
+            padding: 5px;
+            text-align: left;
+            box-sizing: border-box; /* Include padding in width */
+        }
+
+.header {
+    font-weight: bold;
+}
+
+.contact-info, .insurer-info {
+    width: 100%;
+}
+
+    .contact-info td, .insurer-info td {
+        width: 50%;
+    }
+

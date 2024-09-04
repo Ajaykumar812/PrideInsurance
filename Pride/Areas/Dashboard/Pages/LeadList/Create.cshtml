@@ -1,0 +1,128 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.LeadList.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<!-- Title -->
+<div class="row">
+    <div class="col-sm-12">
+        <div class="panel panel-default border-panel card-view">
+            <div class="panel-heading">
+                <div class="pull-left">
+                    <h6 class="panel-title txt-dark">Add New Lead</h6>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-wrapper collapse in">
+                <div class="panel-body">
+                    <div class="form-wrap">
+                        <form class="form-horizontal">
+                            <div class="form-group mb-2">
+                                <div class="col-sm-12">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <label class="control-label mb-10">Date</label>
+                                            <input asp-for="Leads.date" class="form-control" />
+                                            <span asp-validation-for="Leads.date" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label class="control-label mb-10">Name</label>
+                                            <input asp-for="Leads.Name" class="form-control" />
+                                            <span asp-validation-for="Leads.Name" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.Company" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.Company" class="form-control" />
+                                            <span asp-validation-for="Leads.Company" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.ContactNo" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.ContactNo" class="form-control" />
+                                            <span asp-validation-for="Leads.ContactNo" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.EMail" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.EMail" class="form-control" />
+                                            <span asp-validation-for="Leads.EMail" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.LeadStatus" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.LeadStatus" class="form-control" />
+                                            <span asp-validation-for="Leads.LeadStatus" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.Description" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.Description" class="form-control" />
+                                            <span asp-validation-for="Leads.Description" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.EmpyeeName" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.EmpyeeName" class="form-control" />
+                                            <span asp-validation-for="Leads.EmpyeeName" class="text-danger"></span>
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.ContactPerson" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.ContactPerson" class="form-control" />
+                                            <span asp-validation-for="Leads.ContactPerson" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.State" class="control-label mb-10"></label>
+                                            <select asp-for="Leads.State" class="form-control" asp-items="Model.StateList">
+                                                <option>Select State</option>
+                                            </select>
+                                            <span asp-validation-for="Leads.State" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.PowerUnit" class="control-label mb-10"></label>
+                                            <input asp-for="Leads.PowerUnit" class="form-control" />
+                                            <span asp-validation-for="Leads.PowerUnit" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.EffectiveDate" class="control-label mb-10">Effective Date</label>
+                                            <input asp-for="Leads.EffectiveDate" class="form-control" />
+                                            <span asp-validation-for="Leads.EffectiveDate" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.TypeofPolicy" class="control-label mb-10">Type of Policy</label>
+                                            <select asp-for="Leads.TypeofPolicy" class="form-control" required>
+                                                <option value="">Select Type</option>
+                                                <option value="Renewal">Renewal</option>
+                                                <option value="New Venture">New Venture</option>
+                                                <option value="Mid Term/Cancellation">Mid Term/Cancellation</option>
+                                            </select>
+                                            <span asp-validation-for="Leads.TypeofPolicy" class="text-danger"></span>
+                                        </div>   
+                                        <div class="col-sm-6">
+                                            <label asp-for="Leads.Dotno" class="control-label mb-10">Dot No</label>
+                                            <input asp-for="Leads.Dotno" class="form-control" />
+                                            <span asp-validation-for="Leads.Dotno" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-sm-12" style="margin-top:50px;">
+                                            <input type="submit" value="Create" class="btn btn-primary" />
+                                            <a href="./index" value="Cancel" class="btn btn-success">Cancel</a>
+                                        </div>
+                                    </div>
+                                    
+
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

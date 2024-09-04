@@ -1,0 +1,13 @@
+﻿@model Models.ChildViewModel
+
+
+<li>
+    <a href="/Dashboard/AdminDashboard"><div class="pull-left"><i class="fa fa-user mr-20"></i><span class="right-nav-text">Dashboard</span></div><div class="clearfix"></div></a>
+</li>
+@foreach (var item in Model.SpUserMenu)
+{
+    <li>
+        <a href="/Dashboard/@item.Url"><div class="pull-left"><i class="fa fa-user mr-20"></i><span class="right-nav-text">@item.Menu</span></div><div class="clearfix"></div></a>
+    </li>
+
+}

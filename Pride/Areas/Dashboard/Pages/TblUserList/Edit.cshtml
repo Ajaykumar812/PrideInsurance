@@ -1,0 +1,98 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.TblUserList.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<!-- Title -->
+
+<!-- /Title -->
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default border-panel card-view">
+            <div class="panel-heading">
+                <div class="pull-left">
+                    <h6 class="panel-title txt-dark">Edit User</h6>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-wrapper collapse in">
+                <div class="panel-body">
+                    <div class="form-wrap">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <form method="post">
+                                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                            <input type="hidden" asp-for="TblUser.Id" />
+                                            <div class="form-group">
+                                                <label asp-for="TblUser.UserName" class="control-label"></label>
+                                                <input asp-for="TblUser.UserName" class="form-control" />
+                                                <span asp-validation-for="TblUser.UserName" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="TblUser.Email" class="control-label"></label>
+                                                <input asp-for="TblUser.Email" class="form-control" />
+                                                <span asp-validation-for="TblUser.Email" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="TblUser.PhoneNumber" class="control-label"></label>
+                                                <input asp-for="TblUser.PhoneNumber" class="form-control" />
+                                                <span asp-validation-for="TblUser.PhoneNumber" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="TblUser.Role" class="control-label"></label>
+                                                <input asp-for="TblUser.Role" class="form-control" />
+                                                <span asp-validation-for="TblUser.Role" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="TblUser.Password" class="control-label"></label>
+                                                <input asp-for="TblUser.Password" class="form-control" />
+                                                <span asp-validation-for="TblUser.Password" class="text-danger"></span>
+                                            </div>
+                                            <div class="col-md-12 col-lg-12">
+                                                <h5>Assigned Role List</h5>
+                                                <div class="control-group">
+                                                    <div class="controls">
+
+                                                        @foreach (var item in Model.SpAssignedRoleList)
+                                                        {
+                                                            <div class="input-prepend input-group">
+                                                                <div class="checkbox checkbox-info checkbox-circle checkbox-inline">
+                                                                    <input id="@item.Id" type="checkbox" value="@item.Id" name="menu" checked="@(item.Role!=null?true:false)">
+                                                                    <label for="@item.Id">
+                                                                        @item.Menu
+                                                                    </label>
+                                                                </div>
+                                                            </div>
+                                                        }
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="submit" value="Save" class="btn btn-primary" />
+                                                <a href="./index" value="Cancel" class="btn btn-success">Cancel</a>
+
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

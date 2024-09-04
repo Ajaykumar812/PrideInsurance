@@ -1,0 +1,231 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pride
+build_property.RootNamespace = Pride
+build_property.ProjectDir = C:\Users\ak745\OneDrive\Desktop\07-082024\07-082024\07-082024\Pride_code\Pride\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\ak745\OneDrive\Desktop\07-082024\07-082024\07-082024\Pride_code\Pride
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Acord/Acord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEFjb3JkXEFjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEFkbWluRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Broker/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEJyb2tlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Broker/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEJyb2tlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Broker/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEJyb2tlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Broker/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEJyb2tlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Broker/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEJyb2tlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/AddClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxBZGRDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENsaWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/Components/Menu/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXENvbXBvbmVudHNcTWVudVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/FinanceCompanies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEZpbmFuY2VDb21wYW5pZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/FinanceCompanies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEZpbmFuY2VDb21wYW5pZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/FinanceCompanies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEZpbmFuY2VDb21wYW5pZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/FinanceCompanies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEZpbmFuY2VDb21wYW5pZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/FinanceCompanies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEZpbmFuY2VDb21wYW5pZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/InsuranceCompany/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEluc3VyYW5jZUNvbXBhbnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/InsuranceCompany/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEluc3VyYW5jZUNvbXBhbnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/InsuranceCompany/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEluc3VyYW5jZUNvbXBhbnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/InsuranceCompany/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEluc3VyYW5jZUNvbXBhbnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/InsuranceCompany/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXEluc3VyYW5jZUNvbXBhbnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/LeadList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXExlYWRMaXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/LeadList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXExlYWRMaXN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/LeadList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXExlYWRMaXN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/LeadList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXExlYWRMaXN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/LeadList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXExlYWRMaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/States/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFN0YXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/States/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFN0YXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/States/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFN0YXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/States/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFN0YXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/States/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFN0YXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/TblUserList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFRibFVzZXJMaXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/TblUserList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFRibFVzZXJMaXN0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/TblUserList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFRibFVzZXJMaXN0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/TblUserList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFRibFVzZXJMaXN0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/TblUserList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFRibFVzZXJMaXN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Pages/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFBhZ2VzXFVzZXJEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Areas/Dashboard/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ak745/OneDrive/Desktop/07-082024/07-082024/07-082024/Pride_code/Pride/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zaf0s1jw75

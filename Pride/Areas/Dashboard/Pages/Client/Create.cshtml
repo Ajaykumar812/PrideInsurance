@@ -1,0 +1,138 @@
+﻿@page
+@model Pride.Areas.Dashboard.Pages.Client.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default border-panel card-view">
+            <div class="panel-heading">
+                <div class="pull-left">
+                    <h6 class="panel-title txt-dark">Add New Client</h6>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="panel-wrapper collapse in">
+                <div class="panel-body">
+                    <div class="form-wrap">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <form method="post">
+                                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.CoverageType" class="control-label"></label>
+                                                <input asp-for="Clients.CoverageType" class="form-control" />
+                                                <span asp-validation-for="Clients.CoverageType" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Broker" class="control-label"></label>
+                                                <input asp-for="Clients.Broker" class="form-control" />
+                                                <span asp-validation-for="Clients.Broker" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.ClientInsuranceCompany" class="control-label"></label>
+                                                <input asp-for="Clients.ClientInsuranceCompany" class="form-control" />
+                                                <span asp-validation-for="Clients.ClientInsuranceCompany" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.PolicyNumber" class="control-label"></label>
+                                                <input asp-for="Clients.PolicyNumber" class="form-control" />
+                                                <span asp-validation-for="Clients.PolicyNumber" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Effectivedate" class="control-label"></label>
+                                                <input asp-for="Clients.Effectivedate" class="form-control" />
+                                                <span asp-validation-for="Clients.Effectivedate" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Expirydate" class="control-label"></label>
+                                                <input asp-for="Clients.Expirydate" class="form-control" />
+                                                <span asp-validation-for="Clients.Expirydate" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.PremiumAmount" class="control-label"></label>
+                                                <input asp-for="Clients.PremiumAmount" class="form-control" />
+                                                <span asp-validation-for="Clients.PremiumAmount" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Taxfees" class="control-label"></label>
+                                                <input asp-for="Clients.Taxfees" class="form-control" />
+                                                <span asp-validation-for="Clients.Taxfees" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Sumtotalpremium" class="control-label"></label>
+                                                <input asp-for="Clients.Sumtotalpremium" class="form-control" />
+                                                <span asp-validation-for="Clients.Sumtotalpremium" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.financecompany" class="control-label"></label>
+                                                <input asp-for="Clients.financecompany" class="form-control" />
+                                                <span asp-validation-for="Clients.financecompany" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.DownPayment" class="control-label"></label>
+                                                <input asp-for="Clients.DownPayment" class="form-control" />
+                                                <span asp-validation-for="Clients.DownPayment" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.DownPaymentReceived" class="control-label"></label>
+                                                <input asp-for="Clients.DownPaymentReceived" class="form-control" />
+                                                <span asp-validation-for="Clients.DownPaymentReceived" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.PendingDownPayment" class="control-label"></label>
+                                                <input asp-for="Clients.PendingDownPayment" class="form-control" />
+                                                <span asp-validation-for="Clients.PendingDownPayment" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Commission" class="control-label"></label>
+                                                <input asp-for="Clients.Commission" class="form-control" />
+                                                <span asp-validation-for="Clients.Commission" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Brokerge" class="control-label"></label>
+                                                <input asp-for="Clients.Brokerge" class="form-control" />
+                                                <span asp-validation-for="Clients.Brokerge" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Commissionrecived" class="control-label"></label>
+                                                <input asp-for="Clients.Commissionrecived" class="form-control" />
+                                                <span asp-validation-for="Clients.Commissionrecived" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Balancecommission" class="control-label"></label>
+                                                <input asp-for="Clients.Balancecommission" class="form-control" />
+                                                <span asp-validation-for="Clients.Balancecommission" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Payments" class="control-label"></label>
+                                                <input asp-for="Clients.Payments" class="form-control" />
+                                                <span asp-validation-for="Clients.Payments" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Clients.Pendingpayment" class="control-label"></label>
+                                                <input asp-for="Clients.Pendingpayment" class="form-control" />
+                                                <span asp-validation-for="Clients.Pendingpayment" class="text-danger"></span>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="submit" value="Create" class="btn btn-primary" />
+                                                <a href="./index" value="Cancel" class="btn btn-success">Cancel</a>
+                                            </div>
+                                        </form>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
